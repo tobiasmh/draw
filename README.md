@@ -42,6 +42,7 @@ to assist with ensuring that classes only have a single responsibility and to he
 ###Steps
 ```
 git clone https://github.com/tobiasmh/draw.git
+cd draw
 java -jar dist/draw-1.0.jar
 ```
  
@@ -53,5 +54,6 @@ java -jar dist/draw-1.0.jar
 ###Steps
 ```
 git clone https://github.com/tobiasmh/draw.git
+cd draw
 mvn package
 ```
